@@ -83,7 +83,7 @@ figure - imagens
 =========================
 */
 .container .desktop figure, .container .tablet figure, .container .mobile figure {
-	margin: 15px auto 0px auto; 
+	margin: 15px auto 0px auto;
 	width:69.44444444444444%; /* 250px ÷ 360px = 0.6944444444444 x 100 = 69.44444444444444%*/
 }
 /*
